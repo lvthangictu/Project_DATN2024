@@ -71,4 +71,3 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use, 
 
 ---
 
-**Enjoy exploring the world of YOLO models with the YOLO models Comparative  project!**
