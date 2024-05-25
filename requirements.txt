@@ -1,0 +1,58 @@
+# Ultralytics requirements
+# Usage: pip install -r requirements.txt
+ultralytics>=1.0.0
+
+# Base ----------------------------------------
+matplotlib>=3.2.2
+
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+
+
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.7.0
+torchvision>=0.8.1
+tqdm>=4.64.0
+easydict==1.10
+plotly==5.17.0
+
+# yolov7 requirements
+numpy>=1.18.5,<1.24.0
+protobuf<4.21.3
+ipython
+thop
+
+
+
+#deployment
+streamlit==1.27.2
+streamlit-extras==0.3.4
+tensorflow==2.14.0
+streamlit-authenticator==0.2.2
+streamlit-scrollable-textbox==0.0.3
+streamlit-lottie==0.0.5
+
+# Plotting ------------------------------------
+pandas>=1.1.4
+seaborn>=0.11.0
+# wandb
+
+
+# Extras --------------------------------------
+psutil==5.9.5 
+
+supervision==0.14.0
+
+firebase_admin==6.2.0
+
+python-dotenv==1.0.0
+# firebase
+moviepy==1.0.3
+openpyxl
+memory_profiler==0.61.0
+
+#  onnx==1.15.0 
+#  onnx-simplifier==0.4.35
